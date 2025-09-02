@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="meLttZ_fSzbuRKYWJ7lV" name="Page-1">
+        <mxGraphModel dx="802" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Koffie autmaat op werk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="keuze = ?" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="170" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="koffie&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Geeft%20&#39;geld%20terug&#39;%20terug%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BverticalAlign%3Dmiddle%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22370%22%20width%3D%22310%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="197" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Cappucino" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="197" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Latte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="197" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="-x = 100&lt;div&gt;- y= 0&amp;nbsp;&lt;/div&gt;&lt;div&gt;- z =0&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="230" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="- x = 33&amp;nbsp;&lt;div&gt;&lt;span style=&quot;color: rgb(192, 192, 192); background-color: transparent;&quot;&gt;- y = 33&amp;nbsp;&lt;/span&gt;&lt;div&gt;z = 33&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="230" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="- x = 33&amp;nbsp;&lt;div&gt;- y = 66&amp;nbsp;&lt;/div&gt;&lt;div&gt;- z = 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="230" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Geef y ml gestoomde melk&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22keuze%20%3D%20%3F%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BverticalAlign%3Dtop%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22120%22%20width%3D%22360%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="300" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Filter 10 g koffie met x ml heet water" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="360" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Geef x ml koffie" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="420" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Display &quot;neem koffie uit&quot;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="480" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Zolang koffie = leeg" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="110" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Display &quot;Vul koffie bij&quot;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="140" width="285" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Zolang melk = leeg" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="50" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Display &quot;Vul melk bij&quot;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="80" width="285" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
