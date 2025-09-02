@@ -23,4 +23,4 @@ In SVG bestanden kunnen afbeeldingen worden opgeslagen. Dit is een vectorbestand
 YAML wordt gebruikt om configuratie files te maken. Het is een superset van JSON. Het werkt goed met andere programmeertalen. YAML is positieafhankelijk, dus de locatie in de boom is belangrijk. 
 
 # TOML
-Bestandsformaat voor minimale configuratiebestanden die makkelijk te lezen zijn
+Bestandsformaat voor minimale configuratiebestanden die makkelijk te lezen zijn. De data in het bestand moet eenvoudig te begrijpen zijn voor meerdere talen.
